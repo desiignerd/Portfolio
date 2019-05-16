@@ -1,0 +1,473 @@
+.version.index /* version checker */
+{
+	color: #0000EC;
+	background-color: #4674B4;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #61FFE4;
+	background: -webkit-gradient(linear, left center, right center, from(#61FFE4),color-stop(100%, #4E55FF));
+	background: -webkit-linear-gradient(left,#61FFE4 ,#4E55FF 100%);
+	background: linear-gradient(to right,#61FFE4 ,#4E55FF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF61FFE4, endColorstr=#FF4E55FF, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF61FFE4', endColorstr='#FF4E55FF', GradientType=1)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 624.9500000000056px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content,#pu2079
+{
+	width: 0.01px;
+}
+
+#u2079
+{
+	z-index: 36;
+	min-height: 44px;
+	background-color: #000000;
+	padding-bottom: 6px;
+}
+
+#u2626-4
+{
+	z-index: 80;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 8px;
+}
+
+#u2079-bw
+{
+	z-index: 36;
+	min-height: 44px;
+}
+
+#pamphletu2021
+{
+	z-index: 37;
+	width: 0.01px;
+	height: 28px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 348px;
+}
+
+#u2037
+{
+	z-index: 38;
+	width: 24px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2040
+{
+	position: absolute;
+	width: 24px;
+	height: 28px;
+	border-color: #C4C4C4;
+	background: transparent url("../../images/icons8-menu-30.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2040:hover
+{
+	border-color: #6B6B6B;
+	width: 24px;
+	height: 28px;
+	min-height: 0px;
+	margin: 0px;
+	background: transparent url("../../images/icons8-menu-30.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2040:active
+{
+	border-color: #6B6B6B;
+	width: 24px;
+	height: 28px;
+	min-height: 0px;
+	margin: 0px;
+	background: #6B6B6B url("../../images/icons8-menu-30.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2024
+{
+	position: absolute;
+	width: 379px;
+	background: -webkit-gradient(linear, left center, right center, from(rgba(95,247,228,0.8999999999999997)),color-stop(100%, #4D5AFC));
+	background: -webkit-linear-gradient(left,rgba(95,247,228,0.8999999999999997) ,#4D5AFC 100%);
+	background: linear-gradient(to right,rgba(95,247,228,0.8999999999999997) ,#4D5AFC 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#E55FF7E4, endColorstr=#FF4D5AFC, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#E55FF7E4', endColorstr='#FF4D5AFC', GradientType=1)";
+	padding-bottom: 44px;
+	top: 53px;
+	left: -347px;
+	background-size: 100% auto;
+}
+
+#u2024popup
+{
+	z-index: 40;
+}
+
+#u2033
+{
+	z-index: 41;
+	width: 335px;
+	height: 482px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: #FFFFFF url("../../images/background-u2033-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2034-3
+{
+	z-index: 42;
+	width: 279px;
+	min-height: 441px;
+	background-color: transparent;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 29px;
+}
+
+#menuu2051
+{
+	z-index: 45;
+	width: 180px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 85px;
+	left: 79px;
+}
+
+#u2052
+{
+	width: 180px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u2055
+{
+	width: 180px;
+	min-height: 24px;
+	background-color: transparent;
+	padding-bottom: 47px;
+	position: relative;
+	margin-right: -10000px;
+	top: 0px;
+	left: 0px;
+}
+
+#u2057-4
+{
+	position: relative;
+	margin-right: -10000px;
+	top: 23px;
+	left: 0px;
+}
+
+#u2152
+{
+	width: 180px;
+	min-height: 24px;
+	background-color: transparent;
+	padding-bottom: 50px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2145
+{
+	width: 180px;
+	min-height: 24px;
+	background-color: transparent;
+	padding-bottom: 50px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2151,#u2144,#u2137
+{
+	width: 180px;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u2138
+{
+	width: 180px;
+	min-height: 24px;
+	background-color: transparent;
+	padding-bottom: 50px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2055.MuseMenuActive,#u2152.MuseMenuActive,#u2145.MuseMenuActive,#u2138.MuseMenuActive
+{
+	border-style: solid;
+	border-color: #516CF9;
+	border-radius: 15px;
+	width: 180px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+	border-width: 1px 0px;
+}
+
+#u2154-4,#u2147-4,#u2140-4
+{
+	position: relative;
+	margin-right: -10000px;
+	top: 25px;
+}
+
+#u2057-4_clip,#u2154-4_clip,#u2147-4_clip,#u2140-4_clip
+{
+	overflow: hidden;
+	width: 180px;
+	height: 24px;
+	vertical-align: top;
+}
+
+#u2057-4_img,#u2154-4_img,#u2147-4_img,#u2140-4_img
+{
+	display: block;
+}
+
+#u2159
+{
+	z-index: 70;
+	width: 29px;
+	height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 413px;
+	left: 79px;
+	background: #59F3D6 url("../../images/twitter%20black.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2160
+{
+	z-index: 71;
+	width: 29px;
+	height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 413px;
+	left: 128px;
+	background: #59F3D6 url("../../images/facebook%20black.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2161
+{
+	z-index: 72;
+	width: 29px;
+	height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 413px;
+	left: 177px;
+	background: #59F3D6 url("../../images/instagram%20black.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2162
+{
+	z-index: 73;
+	width: 29px;
+	height: 29px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 413px;
+	left: 225px;
+	background: #59F3D6 url("../../images/linkedin%20black.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u2724-6
+{
+	z-index: 74;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 97px;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#pu1498
+{
+	width: 0.01px;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+
+#u1498
+{
+	z-index: 2;
+	width: 369px;
+	padding-bottom: 138px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../../images/background.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1500-19
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 5px;
+}
+
+#u1501
+{
+	z-index: 22;
+	width: 153px;
+	height: 153px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	border-radius: 100px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 107px;
+	background: transparent url("../../images/deadpool-ieu1501-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../../images/deadpool.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u2090-4
+{
+	z-index: 23;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 445px;
+	left: 116px;
+}
+
+#u2091-4
+{
+	z-index: 28;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 385px;
+	left: 116px;
+}
+
+#u2092-4
+{
+	z-index: 32;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 324px;
+	left: 116px;
+}
+
+#u2080
+{
+	z-index: 27;
+	height: 5px;
+}
+
+.ie #u2080
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2080-bw
+{
+	z-index: 27;
+	height: 5px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

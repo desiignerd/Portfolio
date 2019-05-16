@@ -1,0 +1,513 @@
+.version.amusa_tobi__graphic_designs /* version checker */
+{
+	color: #000007;
+	background-color: #1FBCF6;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #61FFE4;
+	background: -webkit-gradient(linear, left center, right center, from(#61FFE4),color-stop(100%, #4E55FF));
+	background: -webkit-linear-gradient(left,#61FFE4 ,#4E55FF 100%);
+	background: linear-gradient(to right,#61FFE4 ,#4E55FF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF61FFE4, endColorstr=#FF4E55FF, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF61FFE4', endColorstr='#FF4E55FF', GradientType=1)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.9500000000022px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	width: 0.01px;
+}
+
+#u2114
+{
+	z-index: 42;
+	min-height: 44px;
+	background-color: #000000;
+	padding-bottom: 6px;
+}
+
+#u2115-4
+{
+	z-index: 43;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 18px;
+	left: 8px;
+}
+
+#u2114-bw
+{
+	z-index: 42;
+	min-height: 44px;
+}
+
+#pu2725
+{
+	width: 0.01px;
+	margin-left: 6px;
+	margin-top: 6px;
+}
+
+#u2725
+{
+	z-index: 2;
+	width: 369px;
+	height: 590px;
+	position: relative;
+	margin-right: -10000px;
+	background: #FFFFFF url("../../images/background-u2725-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#pamphletu2241
+{
+	z-index: 3;
+	width: 0.01px;
+	height: 509px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 25px;
+	left: 20px;
+}
+
+#u2255
+{
+	z-index: 4;
+	width: 330px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2257
+{
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 20px;
+	background: #DEDEDE url("../../images/beau%20monde%20new-u2257-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2259
+{
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 20px;
+	left: 174px;
+	background: #DEDEDE url("../../images/offsidetraps4-u2259-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u2262
+{
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 20px;
+	top: 177px;
+	background: #DEDEDE url("../../images/ramadan%20kareem%20afrikdawn.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u2259:hover,#u2262:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 154px;
+	height: 154px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: contain;
+}
+
+#u2264
+{
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 20px;
+	top: 177px;
+	left: 174px;
+	background: #DEDEDE url("../../images/seychelles-u2264-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2266
+{
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 20px;
+	top: 354px;
+	background: #DEDEDE url("../../images/prisc-u2266-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2268
+{
+	position: absolute;
+	width: 154px;
+	height: 154px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 20px;
+	top: 354px;
+	left: 174px;
+	background: #DEDEDE url("../../images/nakkido-u2268-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2257:hover,#u2264:hover,#u2266:hover,#u2268:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-color: #999999;
+	width: 154px;
+	height: 154px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u2248
+{
+	position: absolute;
+	width: 383px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #191919;
+	background-color: rgba(0,0,0,0.9);
+	padding-bottom: 44px;
+	top: 63px;
+	left: -23px;
+	-pie-background: rgba(0,0,0,0.9);
+}
+
+#u2248popup
+{
+	z-index: 11;
+}
+
+#u2253
+{
+	z-index: 12;
+	width: 339px;
+	height: 466px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/beau%20monde%20new.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2254-4
+{
+	z-index: 13;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 416px;
+}
+
+#u2260
+{
+	z-index: 17;
+	width: 339px;
+	height: 466px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/offsidetraps4.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2300-4
+{
+	z-index: 18;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 416px;
+}
+
+#u2263
+{
+	z-index: 22;
+	width: 339px;
+	height: 466px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #DEDEDE;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u2265
+{
+	z-index: 23;
+	width: 339px;
+	height: 466px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: transparent url("../../images/seychelles.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u2267
+{
+	z-index: 24;
+	width: 339px;
+	height: 466px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: #DEDEDE url("../../images/prisc.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2269
+{
+	z-index: 25;
+	width: 339px;
+	height: 466px;
+	border-style: none;
+	border-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: #DEDEDE url("../../images/nakkido.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2246
+{
+	position: absolute;
+	width: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	border-radius: 20px;
+	padding-bottom: 9px;
+	top: 284px;
+	left: 1px;
+}
+
+#u2247-4
+{
+	z-index: 27;
+	width: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	color: #000000;
+	font-size: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 11px;
+}
+
+#u2244
+{
+	position: absolute;
+	width: 40px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	border-radius: 20px;
+	padding-bottom: 10px;
+	top: 284px;
+	left: 295px;
+}
+
+#u2246:hover,#u2244:hover
+{
+	background-color: #6B6B6B;
+	width: 40px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2245-4
+{
+	z-index: 32;
+	width: 19px;
+	min-height: 9px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	color: #000000;
+	font-size: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 12px;
+}
+
+#u2242
+{
+	position: absolute;
+	width: 30px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C4C4C4;
+	padding-bottom: 5px;
+	top: 48px;
+	left: 150px;
+}
+
+#u2242:hover
+{
+	background-color: #999999;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2242:active
+{
+	background-color: #6B6B6B;
+	width: 30px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2243-4
+{
+	z-index: 37;
+	width: 20px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 5px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u2330
+{
+	z-index: 41;
+	height: 5px;
+}
+
+.ie #u2330
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2330-bw
+{
+	z-index: 41;
+	height: 5px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
