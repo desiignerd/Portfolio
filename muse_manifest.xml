@@ -1,0 +1,140 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="portfolio.com" resolutions="1x" timestamp="1558012568770">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="507188995" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:phone>amusa-tobi--hire-me!:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:phone>amusa-tobi--hire-me!:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:phone>amusa-tobi--hire-me!:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:phone>amusa-tobi--hire-me!:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:phone>amusa-tobi--hire-me!:index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs:phone>amusa-tobi--hire-me!:index"/>
+    <file name="form_check.php" crc="277267350" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="form_process.php" crc="24249335" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="form-u2767.php" crc="3945505477" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="museredirect.js" crc="40941066" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="amusa-tobi--portfolio-favicon.ico" crc="288587913" ref="phone>index"/>
+    <file name="u2626-4.png" crc="3973635527" ref="phone>index"/>
+    <file name="icons8-menu-30.png" crc="4024725200" ref="phone>index"/>
+    <file name="background-u2033-fr.jpg" crc="35628728" ref="phone>index"/>
+    <file name="u2057-4-a.png" crc="456980511" ref="phone>index"/>
+    <file name="u2154-4.png" crc="4271809706" ref="phone>index"/>
+    <file name="u2147-4.png" crc="4011162505" ref="phone>index"/>
+    <file name="u2140-4.png" crc="20663355" ref="phone>index"/>
+    <file name="twitter black.png" crc="3892825483" ref="phone>index"/>
+    <file name="facebook black.png" crc="77691801" ref="phone>index"/>
+    <file name="instagram black.png" crc="3985405613" ref="phone>index"/>
+    <file name="linkedin black.png" crc="338075918" ref="phone>index"/>
+    <file name="u2724-6.png" crc="528105049" ref="phone>index"/>
+    <file name="background.jpg" crc="3822259546" ref="phone>index:phone>amusa-tobi--hire-me!:index"/>
+    <file name="u1500-19.png" crc="499418912" ref="phone>index"/>
+    <file name="deadpool-ieu1501-fr.png" crc="3893376023" ref="phone>index:index"/>
+    <file name="deadpool.jpg" crc="3812678494" ref="phone>index:index"/>
+    <file name="u2090-4.png" crc="237822305" ref="phone>index"/>
+    <file name="u2091-4.png" crc="3823546464" ref="phone>index"/>
+    <file name="u2092-4.png" crc="183477738" ref="phone>index"/>
+    <file name="u2115-4.png" crc="4102645809" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="background-u2725-fr.jpg" crc="4054795734" ref="phone>amusa-tobi--graphic-designs:phone>amusa-tobi--ui-designs"/>
+    <file name="beau monde new-u2257-fr.jpg" crc="4240447784" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="offsidetraps4-u2259-fr.jpg" crc="143880123" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="ramadan kareem afrikdawn.jpg" crc="69406111" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="seychelles-u2264-fr.jpg" crc="4147009419" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="prisc-u2266-fr.jpg" crc="187603985" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="nakkido-u2268-fr.jpg" crc="185667988" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="beau monde new.jpg" crc="4082287271" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="u2254-4.png" crc="25441778" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="offsidetraps4.jpg" crc="4078647778" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="u2300-4.png" crc="873215" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="seychelles.jpg" crc="133344057" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="prisc.jpg" crc="3797384672" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="nakkido.jpg" crc="115475913" ref="phone>amusa-tobi--graphic-designs"/>
+    <file name="u2743-5.png" crc="4042723301" ref="phone>amusa-tobi--ui-designs"/>
+    <file name="1-u3037-fr.jpg" crc="4243613771" ref="phone>amusa-tobi--ui-designs"/>
+    <file name="1-u3051-fr.jpg" crc="105949560" ref="phone>amusa-tobi--ui-designs"/>
+    <file name="icons8-more-than-filled-50-u3034-fr.png" crc="3929939713" ref="phone>amusa-tobi--ui-designs"/>
+    <file name="u3046-4.png" crc="4115403989" ref="phone>amusa-tobi--ui-designs"/>
+    <file name="u2766-4.png" crc="503841374" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2876-4.png" crc="4117949976" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2775.png" crc="4194349462" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2775-ferr.png" crc="26539486" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2769.png" crc="63777871" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2769-ferr.png" crc="4013003798" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2781-17.png" crc="4280234845" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2781-17-r.png" crc="4217793907" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2781-17-m.png" crc="3798851847" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2781-17-fs.png" crc="204630086" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2778.png" crc="4262469053" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="u2778-ferr.png" crc="141027705" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="exciting.png" crc="3868910913" ref="phone>amusa-tobi--hire-me!"/>
+    <file name="portfolio---amusa-tobi-favicon.ico" crc="4252190438" ref="index"/>
+    <file name="u1173-4.png" crc="4195516093" ref="index"/>
+    <file name="u1186-4.png" crc="3780758486" ref="index"/>
+    <file name="u1195-4.png" crc="3840863269" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u1236-4.png" crc="186772862" ref="index"/>
+    <file name="u418-4.png" crc="513634973" ref="index"/>
+    <file name="background-u293-fr.jpg" crc="381401936" ref="index"/>
+    <file name="u295-28.png" crc="4133080555" ref="index"/>
+    <file name="twitter-u469-fr.png" crc="4193163866" ref="index"/>
+    <file name="twitter-u469-r-fr.jpg" crc="3825575247" ref="index"/>
+    <file name="twitter.jpg" crc="4288721450" ref="index"/>
+    <file name="facebook-u494-fr.png" crc="134476333" ref="index"/>
+    <file name="facebook.jpg" crc="92206087" ref="index"/>
+    <file name="facebook2.jpg" crc="3973350151" ref="index"/>
+    <file name="instagram.jpg" crc="4124825684" ref="index"/>
+    <file name="instagram-u495-fr.png" crc="134476333" ref="index"/>
+    <file name="instagram2.jpg" crc="224632285" ref="index"/>
+    <file name="linkedin.jpg" crc="4136386156" ref="index"/>
+    <file name="linkedin-u496-fr.png" crc="134476333" ref="index"/>
+    <file name="linkedin2.jpg" crc="4137993236" ref="index"/>
+    <file name="u417-4.png" crc="3886841272" ref="index"/>
+    <file name="u1752-r-grad.png" crc="468494265" ref="index"/>
+    <file name="logo design.png" crc="3962564116" ref="index"/>
+    <file name="icons8-access-50.png" crc="83702885" ref="index"/>
+    <file name="icons8-web-design-50.png" crc="3832682195" ref="index"/>
+    <file name="icons8-natural-user-interface-2-50.png" crc="49593077" ref="index"/>
+    <file name="u416-4.png" crc="88249452" ref="index"/>
+    <file name="venom movie poster 2-u1038-fr.jpg" crc="332513403" ref="index"/>
+    <file name="icon.png" crc="207173350" ref="index"/>
+    <file name="shoe ad2-u1071-fr.jpg" crc="470039394" ref="index"/>
+    <file name="christamas coke-u1581-fr.jpg" crc="3792535835" ref="index"/>
+    <file name="burger king-u2325-fr.jpg" crc="490271937" ref="index"/>
+    <file name="venom movie poster 2-u1034-fr.jpg" crc="3944149002" ref="index"/>
+    <file name="shoe ad2-u1072-fr.jpg" crc="318918087" ref="index"/>
+    <file name="christamas coke-u1582-fr.jpg" crc="355385204" ref="index"/>
+    <file name="burger king-u2326-fr.jpg" crc="240251210" ref="index"/>
+    <file name="u1424-4.png" crc="3848097954" ref="index"/>
+    <file name="1-u2462-fr.jpg" crc="292799888" ref="index"/>
+    <file name="2.jpg" crc="240630743" ref="index"/>
+    <file name="3.jpg" crc="3789486044" ref="index"/>
+    <file name="4.jpg" crc="511037114" ref="index"/>
+    <file name="1-u2465-fr.jpg" crc="388434468" ref="index"/>
+    <file name="screen 2.jpg" crc="4165602389" ref="index"/>
+    <file name="screen 4.jpg" crc="35067933" ref="index"/>
+    <file name="screen 5.jpg" crc="4032139289" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3964040372" ref="phone>index"/>
+      <file name="amusa-tobi--graphic-designs.css" crc="119520502" ref="phone>amusa-tobi--graphic-designs"/>
+      <file name="amusa-tobi--hire-me_.css" crc="391933421" ref="phone>amusa-tobi--hire-me!"/>
+      <file name="amusa-tobi--ui-designs.css" crc="327564313" ref="phone>amusa-tobi--ui-designs"/>
+    </folder>
+    <file name="index.html" crc="3847508701" seo="true" mt="1557851074174" redirect="true"/>
+    <file name="amusa-tobi--graphic-designs.html" crc="323462728" seo="true" mt="1558012559057" redirect="true"/>
+    <file name="amusa-tobi--ui-designs.html" crc="3810645126" seo="true" mt="1557852629097" redirect="true"/>
+    <file name="amusa-tobi--hire-me!.html" crc="4010200505" seo="true" mt="1557851094397" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3974181423" seo="true" mt="1558012481742" redirect="true"/>
+</manifest>
